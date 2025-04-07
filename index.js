@@ -5,8 +5,8 @@ import chalk from 'chalk';
 import osu from 'node-os-utils';
 import express from 'express';
 
-const username = "xxx"
-const merchantcode = "xxx"
+const username = "OK2307964"
+const merchantcode = "745596917413339762307964OKCT9434CA02A4A6BB20C21BF6E86FCEB569"
 
 
 const app = express();
